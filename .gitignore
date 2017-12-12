@@ -1,0 +1,13 @@
+# file patterns
+*.pyc
+*.swp
+
+# files
+data.zip
+
+# directories
+data
+notebooks/exercises/.ipynb_checkpoints
+notebooks/exercises/preview
+notebooks/completed/.ipynb_checkpoints
+notebooks/completed/preview
